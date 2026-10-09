@@ -1,0 +1,22 @@
+# makepkg directories
+/src/
+/pkg/
+
+# Compiled package archives
+*.pkg.tar.*
+*.pkg.tar
+
+# Source checkout directories (cloned by VCS PKGBUILDs)
+/street-facs-fighter/
+
+# Source tarballs / archives
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+*.zip
+
+# makepkg log files
+*.log
+*.log.*

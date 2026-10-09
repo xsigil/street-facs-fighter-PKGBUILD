@@ -1,6 +1,6 @@
 # Maintainer: xsigil
 pkgname=street-facs-fighter-git
-pkgver=r1.0.0
+pkgver=r10.9f52c36
 pkgrel=1
 pkgdesc="A terminal-based street fighter game for FACS (Facial Action Coding System)"
 arch=('x86_64' 'aarch64')
